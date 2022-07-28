@@ -1,6 +1,6 @@
 //Random Quotes Api URL
 
-const quoteApiUrl = "https://api.quotable.io/random?minLength=80&maxLength=100";
+const quoteApiUrl = "hello my name is John and I am a Spoken English coach and British Council certified IELTS trainer.";
 
 const quoteSection = document.getElementById("quote");
 
