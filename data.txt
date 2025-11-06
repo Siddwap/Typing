@@ -1,7 +1,15 @@
-{
-  "success": true,
-  "data": {
-    "test": "hello world this is test"
+// database.json
+[
+  {
+    "name": "test1",
+    "data": "this is test data"
   },
-  "count": 1
-}
+  {
+    "name": "test2",
+    "data": "this is test data"
+  },
+  {
+    "name": "test3",
+    "data": "this is test data"
+  }
+]
